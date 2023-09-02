@@ -1,0 +1,21 @@
+{
+  "name": "agenomicsphd-dark",
+  "displayName": "agenomicsphd-dark",
+  "description": "pink + blu dark mode theme made by @agenomicsphd!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "agenomicsphd-dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/agenomicsphd-dark-color-theme.json"
+      }
+    ]
+  }
+}
