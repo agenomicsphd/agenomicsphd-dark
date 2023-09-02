@@ -1,10 +1,22 @@
 {
   "name": "agenomicsphd-dark",
   "displayName": "agenomicsphd-dark",
-  "description": "pink + blu dark mode theme made by @agenomicsphd!",
+  "description": "pink + blue dark mode theme made by @agenomicsphd!",
   "version": "0.0.1",
+  "publisher" : "livcodes",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/agenomicsphd/agenomicsphd-dark"
+  },
+  "keywords": [
+    "dark theme",
+    "pink theme",
+    "agenomicsphd",
+    "pink theme"
+  ]
+
   "engines": {
-    "vscode": "^1.81.0"
+    "vscode": "^1.78.0"
   },
   "categories": [
     "Themes"
